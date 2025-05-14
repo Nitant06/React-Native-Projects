@@ -90,8 +90,7 @@ Before running the app, ensure you have the following installed:
 
 
 
-
-NewsNow App
+## NewsNow App Working
 
 https://github.com/user-attachments/assets/16a01bf4-7fe8-4e0f-acfc-da01101bbad3
 
